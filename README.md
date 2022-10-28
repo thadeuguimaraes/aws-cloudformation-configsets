@@ -8,8 +8,8 @@ eles em uma ordem específica.
 # Step#1: Single Configset
 
 # Vamos definir duas chaves de configuração App1 e App2
-- Vamos criar um conjunto de configurações com o nome como
-App1 and App2.
+## Vamos criar um conjunto de configurações com o nome como
+## App1 and App2.
 - A chave de configuração do primeiro App1 será executada.
 - Próxima chave de configuração do App2 será executada.
 - A ordem de execução será baseada em como
@@ -19,7 +19,7 @@ Nós os definimos em configurações.
 
 # Step#2: Multiple configSets
 
-- Criamos 3 configurações
+## Criamos 3 configurações
   - SingleAppcs
   - DualAppcs
   - default
@@ -28,7 +28,7 @@ implantado.
 
 # Step#3: Multiple configSets
 
-- Criamos 3 configurações
+## Criamos 3 configurações
   - SingleAppcs
   - DualAppcs
   - default
@@ -37,7 +37,7 @@ ser implantado
  
  # Step#4: Multiple configSets
 
-- Criamos 3 configurações
+## Criamos 3 configurações
   - SingleAppcs
   - DualAppcs
   - default
